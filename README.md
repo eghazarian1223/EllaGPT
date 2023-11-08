@@ -47,3 +47,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments:
 This project was created by Ella.
 The AI language model used in this project is powered by GPT-3.5.
+
+Node.js version 20.9.0 is recommended for this project.
