@@ -1,4 +1,3 @@
-EllaGPT 
 EllaGPT is a simple chat interface that allows you to have conversations with an AI language model powered by GPT-3.5. This project is built using React and provides a user-friendly interface for interacting with the AI model.
 
 Features
